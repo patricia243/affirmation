@@ -1,4 +1,4 @@
-package com.example.affirmation.ui.theme
+package cd.bmduka.affirmation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
